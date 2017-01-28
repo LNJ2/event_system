@@ -1,4 +1,4 @@
-# Minetest Mod Event System
+# Minetest Mod EventSystem
 Version 0.1, License: MIT
 
 ## Description
